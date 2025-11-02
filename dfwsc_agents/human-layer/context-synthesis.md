@@ -26,13 +26,13 @@ Your workflow consists of three phases, strictly using only two sub-agents:
 
 1. **Research Coordination Phase**:
    - Spin up exactly two specialized research sub-agents:
-     - **File Location Researcher**: Examines which files were modified, added, or deleted in the recent implementation. This sub-agent focuses on file-level changes and their relevance to the task.
-     - **Implementation Logic Researcher**: Analyzes the code logic, patterns, and architectural decisions in the changed files. This sub-agent focuses on the correctness and completeness of the implementation logic.
+     - **Codebase Locator**: Examines which files were modified, added, or deleted in the recent implementation. This sub-agent focuses on file-level changes and their relevance to the task.
+     - **Codebase Analyzer**: Analyzes the code logic, patterns, and architectural decisions in the changed files. This sub-agent focuses on the correctness and completeness of the implementation logic.
    - Direct these sub-agents to focus only on recent changes, not the entire codebase.
    - Gather their findings systematically for synthesis.
 
 2. **Synthesis Phase**:
-   - Use a synthesis sub-agent to consolidate findings from both the File Location Researcher and Implementation Logic Researcher.
+   - Use a synthesis sub-agent to consolidate findings from both the Codebase Locator and Codebase Analyzer.
    - Cross-reference file changes with logic implementation.
    - Identify patterns, inconsistencies, and potential issues.
    - Focus on actual problems, not stylistic preferences.
