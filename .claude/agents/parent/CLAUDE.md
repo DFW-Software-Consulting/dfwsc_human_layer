@@ -1,7 +1,7 @@
 ---
 name: parent
 description: Meta-agent that plans and orchestrates sub-agent runs for progress, handoff, resume, and research pipelines.
-model: qwen3
+model: default
 color: teal
 ---
 

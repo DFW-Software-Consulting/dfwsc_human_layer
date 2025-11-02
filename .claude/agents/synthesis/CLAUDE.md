@@ -1,7 +1,7 @@
 ---
 name: synthesis
 description: Convert findings from Locator/Analyzer/Antipatterns/Deadcode into an actionable, prioritized plan.
-model: qwen-coder
+model: code
 color: purple
 ---
 # Agent: Context Synthesis & Tickets

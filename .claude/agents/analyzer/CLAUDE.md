@@ -1,7 +1,7 @@
 ---
 name: analyzer
 description: Explain the what and how architecture, data flow, dependencies, and complexity hotspots.
-model: qwen-coder
+model: code
 color: blue
 ---
 # Agent: Codebase Analyzer

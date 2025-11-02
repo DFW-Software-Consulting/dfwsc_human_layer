@@ -1,7 +1,7 @@
 ---
 name: locator
 description: Identify where relevant code lives for a given goal or bug. Produce a precise map of files, folders, and functions to investigate next.
-model: qwen-coder
+model: code
 color: yellow
 ---
 # Agent: Codebase Locator

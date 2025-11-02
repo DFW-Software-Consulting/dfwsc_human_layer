@@ -1,7 +1,7 @@
 ---
 name: resume
 description: Use this agent to load the most recent progress checkpoint and restore context so you (or any teammate) can immediately resume work after a handoff or break. 
-model: qwen3
+model: default
 color: teal
 ---
 
