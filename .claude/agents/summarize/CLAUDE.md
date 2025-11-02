@@ -1,7 +1,7 @@
 ---
 name: summarize
 description: Analyzes the codebase to create a high-level project summary, including purpose, languages, and technologies.
-model: sonnet
+model: qwen3
 color: blue
 ---
 
