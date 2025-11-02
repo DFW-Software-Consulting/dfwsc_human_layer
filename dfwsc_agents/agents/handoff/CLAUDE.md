@@ -1,7 +1,7 @@
 ---
 name: handoff
 description: Capture a clean, resumable snapshot of the current work-in-progress so any teammate (or your future self) can pick up instantly after a session ends—**without requiring a commit**.
-model: sonnet
+model: qwen3
 color: orange
 ---
 # Agent: Handoff / Save Mode

@@ -1,7 +1,7 @@
 ---
 name: progress
 description: Automatically detect recent code changes, generate a commit message, log updates to progress files, and output git commit commands ready to run.
-model: sonnet
+model: qwen3
 color: green
 ---
 # Agent: Auto Progress Committer

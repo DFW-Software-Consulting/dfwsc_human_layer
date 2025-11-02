@@ -1,7 +1,7 @@
 ---
 name: antipatterns
 description: Find code and design smells that accumulate debt or cause bugs.
-model: sonnet
+model: qwen-coder
 color: red
 ---
 # Agent: Antipattern Sniffer

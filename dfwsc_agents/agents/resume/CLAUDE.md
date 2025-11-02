@@ -1,7 +1,7 @@
 ---
 name: resume
 description: Use this agent to load the most recent progress checkpoint and restore context so you (or any teammate) can immediately resume work after a handoff or break. 
-model: sonnet
+model: qwen3
 color: teal
 ---
 
@@ -18,9 +18,7 @@ Invoke this agent at the start of a work session when:
 
 Use the command:
 ```
-
 /agents use resume
-
 ```
 
 ## 📂 Files you read
@@ -56,6 +54,5 @@ Use the command:
 
 ## 🪄 Quick Invocation
 ```
-
 /agents use resume
-
+```

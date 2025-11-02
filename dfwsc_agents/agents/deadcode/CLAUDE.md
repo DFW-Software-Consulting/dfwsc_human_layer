@@ -1,7 +1,7 @@
 ---
 name: deadcode
 description: Identify unused or redundant code unreachable branches, abandoned modules, duplicate implementations.
-model: sonnet
+model: qwen-coder
 color: grey
 ---
 # Agent: Dead Code Detector
