@@ -1,3 +1,9 @@
+---
+name: progress
+description: Automatically detect recent code changes, generate a commit message, log updates to progress files, and output git commit commands ready to run.
+model: sonnet
+color: green
+---
 # Agent: Auto Progress Committer
 
 ## 🎯 Role

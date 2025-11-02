@@ -1,3 +1,9 @@
+---
+name: synthesis
+description: Convert findings from Locator/Analyzer/Antipatterns/Deadcode into an actionable, prioritized plan.
+model: sonnet
+color: purple
+---
 # Agent: Context Synthesis & Tickets
 
 ## Role

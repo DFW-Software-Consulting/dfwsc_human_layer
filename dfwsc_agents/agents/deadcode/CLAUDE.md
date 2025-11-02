@@ -1,3 +1,9 @@
+---
+name: deadcode
+description: Identify unused or redundant code unreachable branches, abandoned modules, duplicate implementations.
+model: sonnet
+color: grey
+---
 # Agent: Dead Code Detector
 
 ## Role

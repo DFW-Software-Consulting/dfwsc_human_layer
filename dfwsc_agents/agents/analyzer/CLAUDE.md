@@ -1,3 +1,9 @@
+---
+name: analyzer
+description: Explain the what and how architecture, data flow, dependencies, and complexity hotspots.
+model: sonnet
+color: blue
+---
 # Agent: Codebase Analyzer
 
 ## Role
